@@ -2,7 +2,6 @@ baseURL = "https://example.org/"
 languageCode = "ja"
 title = "Yボタンがネギに見える"
 disableKinds = ["RSS", "sitemap"]
-theme = "ananke"  # この行を追加
 
 [taxonomies]
 tag = "tags"
